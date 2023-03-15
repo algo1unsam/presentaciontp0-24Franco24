@@ -1,22 +1,15 @@
 # Presentación
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Suban una foto.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
-
 Ya saben usar git!
 
 
-## Estudiante: Nombre estudiante
+## Estudiante: Franco Demaino
 
-Descripción
+Soy Franco Demaino, tengo 20 años y estudio TPI en la unsam
 
 Foto de mi persona:
 
-![d](https://media.istockphoto.com/id/1423183219/es/vector/la-pelusa-de-diente-de-le%C3%B3n-vuela-lejos-del-viento.jpg?s=612x612&w=0&k=20&c=nSMyODf20H4HZxTyGNmsbY1FNsnU0irg0d-4XI94ZsM=)
+![imagenP](https://user-images.githubusercontent.com/127902002/225169547-a65ff6ed-caa1-4547-8890-45e3f7cda7ae.png)
 
 Diente de Leon
 
