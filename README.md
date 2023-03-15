@@ -1,15 +1,12 @@
 # Presentación
 
-Ya saben usar git!
-
-
 ## Estudiante: Franco Demaino
 
-Soy Franco Demaino, tengo 20 años y estudio TPI en la unsam
+Hola, soy Franco Demaino, tengo 20 años y estudio TPI en la UNSAM
 
 Foto de mi persona:
 
-![imagenP](https://user-images.githubusercontent.com/127902002/225169547-a65ff6ed-caa1-4547-8890-45e3f7cda7ae.png)
+![WhatsApp Image 2022-06-14 at 8 30 32 PM](https://user-images.githubusercontent.com/127902002/225368387-6d093161-fb09-469c-815b-ae5363f87e32.jpeg)
 
 Diente de Leon
 
